@@ -15,6 +15,8 @@ class ViewController: UIViewController {
         // Do any additional setup after loading the view.
         
         //This is testing for Git commit within Xcode
+        
+        //This is another testing for Git practice which is a good exercise.
     }
 
 
