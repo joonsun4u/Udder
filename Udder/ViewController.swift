@@ -17,6 +17,8 @@ class ViewController: UIViewController {
         //This is testing for Git commit within Xcode
         
         //This is another testing for Git practice which is a good exercise.
+        
+        //This is third comment practice
     }
 
 
